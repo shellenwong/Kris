@@ -1,2 +1,3 @@
-# Nothing here
-## But Wiki is here!
+# Kris Wong
+
+## a nature born human
