@@ -16,4 +16,4 @@ a paranoid
 
 
 
-$$C_M^N =\frac{M!}{N!(M-N)!}, \text{(M=7, N=3)} $$
+
